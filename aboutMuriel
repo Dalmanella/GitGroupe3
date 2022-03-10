@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name=" viewport" content="width=device-width, initial-scale=1.0">
+        <title>Git tuto</title>
+    </head>
+
+    <body>
+        <header><h1>Tout sur Muriel:</h1></header>
+        <h1>y' en a qui rêvent les yeux ouverts!</h1>
+
+        <div>
+            <p> du blabla, du blabla et encore du blabla! </p>
+            <a href="" target="_blank">un lien moisi</a>
+        </div>
+        
+        <h2>Vous en voulez encore?</h2>
+        <h3>ok!</h3>
+        <div>
+            <p>Et voilà encore du blabla!
+                Alors, heureux?
+            </p>
+        </div>
+
+        <footer>copyright MH-Studio</footer>
+
+    </body>
+
+</html>
